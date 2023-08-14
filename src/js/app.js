@@ -59,7 +59,7 @@ function render(variables = {}) {
               <a target="_blank" href="${
                 variables.github
                   ? variables.github
-                  : "https://github.com/4GeeksAcademy/"
+                  : "https://github.com/AfonsoBernardes"
               }"><i class="fab fa-github"></i></a>
             </li>
 
@@ -98,7 +98,7 @@ window.onload = function() {
     socialMediaPosition: "position-left",
     // social media usernames
     twitter: null,
-    github: "alesanchezr",
+    github: null,
     linkedin: null,
     instagram: null,
     name: null,
